@@ -1,12 +1,18 @@
 ## Hi there 👋
 
-Hello, I’m Minji, studying to become an AI developer.  
-I major in AI Big Data & Convergence Management and minor in Software Engineering.
+Hello, I'm Minji, an AI engineer.
+I majored in AI Big Data & Convergence Management with a minor in
+Software Engineering.
 
-My interests include multimodal learning, NLP, XAI, anomaly detection, and medical AI.  
-I am interested in interpreting data from diverse perspectives and defining meaningful problems.
+I'm currently working on Physical AI and medical AI model development,
+with broader interests in Vision-Language Models (VLM) and multimodal
+learning.
 
-I believe that the same data can lead to entirely different insights depending on the questions asked and the perspective taken.  
+I enjoy interpreting data from diverse perspectives and defining
+meaningful problems. I believe the same data can lead to entirely
+different insights depending on the questions asked and the perspective
+taken.
+
 Thank you for visiting, and have a nice day :)
 
 
